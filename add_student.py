@@ -1,5 +1,5 @@
 import csv
-
+   
 name = input("Enter student name: ")
 age = input("Enter student age: ")
 course = input("Enter student course:")
